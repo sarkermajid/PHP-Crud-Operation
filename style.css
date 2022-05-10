@@ -1,0 +1,6 @@
+.text-success {
+    font-size: 20px;
+}
+.mt-4 > a:nth-child(1){
+    text-decoration: none;
+}
